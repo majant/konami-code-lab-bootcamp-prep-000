@@ -17,7 +17,7 @@ function init() {
   let index = 0;
   
   function KeyDown(e) {
-    const key = e.key;
+    
     
     
   }
