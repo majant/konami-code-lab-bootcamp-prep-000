@@ -11,6 +11,15 @@ const codes = [
   "a"
 ];
 
+
+
 function init() {
-  // your code here
+  let index = 0;
+  
+  function KeyDown(e) {
+    const key = e.key;
+    
+    
+  }
+  
 }
