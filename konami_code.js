@@ -31,5 +31,3 @@ function init() {
   document.body.addEventListener('keydown', KeyDown)
   
 }
-
-init()
