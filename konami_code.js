@@ -28,6 +28,6 @@ function init() {
     }
   }
   
-  document.body.addEventListener('keydown', KeyDown)
+  document.body.addEventListener('keydown', KeyDown);
   
 }
